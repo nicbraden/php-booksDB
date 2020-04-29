@@ -1,0 +1,40 @@
+body{
+    margin: 10px; 
+    background-image: url(../images/library.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    background-attachment: fixed;
+}
+.call-to-action{
+    width: 50%;
+    margin: auto;
+    margin-top: 40px;
+    padding-top: 100px;
+    text-align: center;
+    background-color:rgba(255, 255, 255, 0.89);
+    opacity:0.8;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 60px;
+}
+label {
+    width: 83px;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.btn {
+    width: 150px;
+    float: right;
+    margin-right: 10px;
+}
+
+.table {
+    margin-left: 0px;
+    text-align: center;
+    background-color:rgba(255, 255, 255, 0.89);
+    margin-top: 70px;
+    padding-top: 10px;
+    width: 100%;
+}
